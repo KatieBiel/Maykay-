@@ -4,15 +4,14 @@ Maykay is a Flutter-based mobile app for a massage studio in the Netherlands. It
 
 ## ✨ Features
 
-📢 Studio promotion – service information, photo gallery, and pricing.\n
-🪪 Loyalty program – collect points by scanning QR codes and earn a free massage.\n
-🤖 AI assistant – recommends the most suitable massage for each client.\n
-📅 Online booking – simple reservation system integrated via WebView.\n
-🌍 Multilingual support – available in Polish, English, and Dutch.\n
-🔔 Push notifications – promotions and reminders powered by Firebase.\n
-🎨 Modern UI/UX – clean and user-friendly design.\n
-📱 Cross-platform – runs on Android (Google Play) and iOS (coming soon).\n
-
+- Studio promotion – service information, photo gallery, and pricing.  
+- Loyalty program – collect points by scanning QR codes and earn a free massage.  
+- AI assistant – recommends the most suitable massage for each client.  
+- Online booking – simple reservation system integrated via WebView.  
+- Multilingual support – available in Polish, English, and Dutch.  
+- Push notifications – promotions and reminders powered by Firebase.  
+- Modern UI/UX – clean and user-friendly design.  
+- Cross-platform – runs on Android (Google Play) and iOS (coming soon).  
 
 ## 📱 Screenshots
 
